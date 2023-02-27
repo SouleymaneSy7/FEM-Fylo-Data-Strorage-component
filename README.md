@@ -20,11 +20,11 @@ Your users should be able to:
 
 This is the Screenshot of the projects a made!
 
-### Mobile
+### Mobile Screenshot
 
 ![Mobile Screenshot](./preview/Mobile.png)
 
-### Desktops
+### Desktops Screenshot
 
 ![Desktop Screenshot](./preview/Desktop.png)
 
