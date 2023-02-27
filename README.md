@@ -30,8 +30,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/fylo-data-storage-components-responsive-made-with-html-and-sass-rsGj_-npJJ)
+- Live Site URL: [live site URL here](https://fem-fylo-data-strorage-component.vercel.app/)
 
 ## My process
 
